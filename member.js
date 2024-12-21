@@ -1,8 +1,12 @@
-function SkillsMembrer() {
-  return (
-    <div>
-      <h2>Skills</h2>
-      <p>HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB</p>
-    </div>
-  );
+function SkillsMember() {
+    return (
+        <div>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </div>
+    );
 }
